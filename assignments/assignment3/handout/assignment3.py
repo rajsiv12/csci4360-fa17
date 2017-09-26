@@ -23,5 +23,5 @@ if __name__ == "__main__":
 
     # Read in the dynamic texture data.
     M = np.load(input_file)
-    
+
     ### FINISH ME
